@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Asap:400,500,700');
+
+.grid {
+  display: inline-flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+  margin-left: 560px;
+}
+
+body
+{
+  	background-color:black;
+}
+
+h1
+{
+	background:white;
+	padding-bottom: 10px;
+}
+
+h2
+{
+	color: white;
+	font-family: Asap, sans-serif;
+	padding:2px;
+	margin-left: 50px;
+}
+
+p
+{
+	color: white;
+	font-family: Asap, sans-serif;
+	padding:20px;
+	margin-left: 10px;
+	font-size: 20px;
+	 line-height: 1.4;
+
+}
