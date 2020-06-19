@@ -16,7 +16,13 @@ To use this project follow the steps :
 - The game continues until you match all the cards on the board
 - Play and have fun :)
 
-# Over view of how it looks
+# Overview of how the game looks
 
 1. Front view of the game before starting.
+
 ![](images/img1.png)
+
+2. When a match happens, a pop up window(alert) shows it was an match. And if it wasn't a pop would show a alert saying try again.
+
+![](images/img2.png)
+
