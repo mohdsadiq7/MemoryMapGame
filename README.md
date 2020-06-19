@@ -26,3 +26,7 @@ To use this project follow the steps :
 
 ![](images/img2.png)
 
+3. Scores getting updated as soon as they match. And matched cards getting removed.
+
+![](images/img3.png)
+
